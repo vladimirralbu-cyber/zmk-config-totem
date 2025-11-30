@@ -86,10 +86,10 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-                &kp Q       &kp W       &kp F        &kp P        &kp B        &kp J    &kp L            &kp U        &kp Y       &kp SEMI
-                &mt LGUI A  &mt LALT R  &mt LCTRL S  &mt LSHFT T  &kp G        &kp M    &mt RSHFT N      &mt RCTRL E  &mt RALT I  &mt RGUI O
-&kp UNDERSCORE  &kp Z       &kp X       &kp C        &kp D        &kp V        &kp K    &kp H            &kp COMMA    &kp DOT     &kp FSLH    &kp SQT
-                                        &kp ESCAPE   &lt 3 TAB    &kp SPACE    &kp RET  &lt 1 BACKSPACE  &lt 2 DEL
+                &kp Q       &kp W       &kp F         &kp P        &kp B        &kp J    &kp L            &kp U        &kp Y       &kp SEMI
+                &mt LGUI A  &mt LALT R  &mt LCTRL S   &mt LSHFT T  &kp G        &kp M    &mt RSHFT N      &mt RCTRL E  &mt RALT I  &mt RGUI O
+&kp UNDERSCORE  &kp Z       &kp X       &kp C         &kp D        &kp V        &kp K    &kp H            &kp COMMA    &kp DOT     &kp FSLH    &kp SQT
+                                        &lt 4 ESCAPE  &lt 3 TAB    &kp SPACE    &kp RET  &lt 1 BACKSPACE  &lt 2 DEL
             >;
         };
 
@@ -173,10 +173,10 @@
 
         // ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
-        tvp1_layer {
+        fkeys {
             // ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 
-            label = "TVP 1";
+            label = "fkeys";
 
             // ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
             //             ┏━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┓   ┏━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┓
